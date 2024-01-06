@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3a4151-d0cf-48e5-9275-f30dbe6b76e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week1/balanceBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -40,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/udayaduvvuri/grind75Weekly&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.binarySearch">
+  <component name="RunManager" selected="Application.ransomNote">
     <configuration name="bestTimeforStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.bestTimeforStocks" />
       <module name="grind75" />
@@ -67,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.twoSum" />
+    <configuration name="ransomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.ransomNote" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ransomNote" />
         <item itemvalue="Application.binarySearch" />
         <item itemvalue="Application.validAnagram" />
         <item itemvalue="Application.validPalindrome" />
         <item itemvalue="Application.bestTimeforStocks" />
-        <item itemvalue="Application.twoSum" />
       </list>
     </recent_temporary>
   </component>
