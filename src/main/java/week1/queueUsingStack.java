@@ -16,25 +16,25 @@ public class queueUsingStack {
     Stack<Integer> input = new Stack<>();
     Stack<Integer> output = new Stack<>();
 
-    public void push(int x){
+    public void push(int x) {
         input.add(x);
     }
 
-    public int pop(){
+    public int pop() {
         peek();
         return output.pop();
     }
 
-    public int peek(){
-        if(output.empty()){
-            while(!input.empty()){
+    public int peek() {
+        if (output.empty()) {
+            while (!input.empty()) {
                 output.add(input.pop());
             }
         }
         return output.peek();
     }
 
-    public boolean empty(){
-        return input.empty()&&output.empty();
+    public boolean empty() {
+        return input.empty() && output.empty();
     }
 }

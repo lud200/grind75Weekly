@@ -19,7 +19,7 @@ package week1;
  * Explanation: "raceacar" is not a palindrome.
  */
 public class validPalindrome {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String s = "A man, a plan, a canal: Panama";
         System.out.println(isPalindrome(s));
     }
@@ -28,8 +28,8 @@ public class validPalindrome {
         s = s.replaceAll("[^a-zA-Z0-9]", "");
         s = s.toLowerCase();
         String rev = "";
-        for(char c:s.toCharArray()){
-            rev = c+rev;
+        for (char c : s.toCharArray()) {
+            rev = c + rev;
         }
         return rev.equals(s);
     }

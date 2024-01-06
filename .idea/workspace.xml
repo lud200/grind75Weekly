@@ -7,6 +7,16 @@
     <list default="true" id="5c3a4151-d0cf-48e5-9275-f30dbe6b76e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/balanceBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/balanceBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/bestTimeforStocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/bestTimeforStocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/floodFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/floodFill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/lcaofBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/lcaofBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/mergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/mergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/queueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/queueUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week1/validPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/validPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/climbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/climbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/firstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/firstBadVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week2/ransomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/ransomNote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,35 +49,9 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/udayaduvvuri/grind75Weekly&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ransomNote">
-    <configuration name="bestTimeforStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.bestTimeforStocks" />
-      <module name="grind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.binarySearch" />
-      <module name="grind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ransomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.ransomNote" />
+  <component name="RunManager" selected="Application.maximumSubArray">
+    <configuration name="balloonProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.balloonProblem" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
@@ -79,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="validAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.validAnagram" />
+    <configuration name="containsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.containsDuplicate" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="validPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.validPalindrome" />
+    <configuration name="longestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.longestPalindrome" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="majorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.majorityElement" />
+      <module name="grind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maximumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.maximumSubArray" />
+      <module name="grind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ransomNote" />
-        <item itemvalue="Application.binarySearch" />
-        <item itemvalue="Application.validAnagram" />
-        <item itemvalue="Application.validPalindrome" />
-        <item itemvalue="Application.bestTimeforStocks" />
+        <item itemvalue="Application.maximumSubArray" />
+        <item itemvalue="Application.containsDuplicate" />
+        <item itemvalue="Application.majorityElement" />
+        <item itemvalue="Application.balloonProblem" />
+        <item itemvalue="Application.longestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +146,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week2/balloonProblem.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

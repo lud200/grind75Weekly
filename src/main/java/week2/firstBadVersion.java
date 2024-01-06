@@ -14,7 +14,7 @@ package week2;
  * Input: n = 5, bad = 4
  */
 public class firstBadVersion {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int n = 5;
     }
 

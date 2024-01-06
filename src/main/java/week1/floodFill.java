@@ -15,18 +15,18 @@ package week1;
 public class floodFill {
 
     public static int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        if(image[sr][sc] == color) return image;
+        if (image[sr][sc] == color) return image;
         dfsUtil(image, sr, sc, color, image[sr][sc]);
         return image;
     }
 
-    public static void dfsUtil(int[][] image, int sr, int sc, int color, int index){
-        if(sr<0 || sc<0 || sr>=image.length || sc>=image[0].length || image[sr][sc]!=index) return;
+    public static void dfsUtil(int[][] image, int sr, int sc, int color, int index) {
+        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length || image[sr][sc] != index) return;
 
         image[sr][sc] = color;
-        dfsUtil(image, sr+1, sc, color, index);
-        dfsUtil(image, sr-1, sc, color, index);
-        dfsUtil(image, sr, sc+1, color, index);
-        dfsUtil(image, sr, sc-1, color, index);
+        dfsUtil(image, sr + 1, sc, color, index);
+        dfsUtil(image, sr - 1, sc, color, index);
+        dfsUtil(image, sr, sc + 1, color, index);
+        dfsUtil(image, sr, sc - 1, color, index);
     }
 }

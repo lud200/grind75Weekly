@@ -16,23 +16,23 @@ package week2;
  * Output: false
  */
 public class ransomNote {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         String ransomNote = "a", magazine = "b";
         System.out.println(canConstruct(ransomNote, magazine));
     }
 
     public static boolean canConstruct(String ransomNote, String magazine) {
-        if(ransomNote.length()>magazine.length()) return false;
+        if (ransomNote.length() > magazine.length()) return false;
 
         int[] index = new int[26];
 
-        for(int i=0;i<magazine.length();i++){
-            index[magazine.charAt(i)-'a']++;
+        for (int i = 0; i < magazine.length(); i++) {
+            index[magazine.charAt(i) - 'a']++;
         }
 
-        for(int i=0;i<ransomNote.length();i++){
-            if(index[ransomNote.charAt(i)-'a']==0) return false;
-            index[ransomNote.charAt(i)-'a']--;
+        for (int i = 0; i < ransomNote.length(); i++) {
+            if (index[ransomNote.charAt(i) - 'a'] == 0) return false;
+            index[ransomNote.charAt(i) - 'a']--;
         }
         return true;
     }

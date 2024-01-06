@@ -20,9 +20,16 @@ https://www.techinterviewhandbook.org/grind75
 
 ## Week2
 
-| Week2                                                                 | Problem link                                                             |
-|-----------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [firstBadVersion.java](src%2Fmain%2Fjava%2Fweek2%2FfirstBadVersion.java) |
-| [Ransom Note](https://leetcode.com/problems/ransom-note/)             | [ransomNote.java](src%2Fmain%2Fjava%2Fweek2%2FransomNote.java)           |
-| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     |                                                                          |
-|                                                                       |                                                                          |
+| Week2                                                                                                   | Problem link                                                                           |
+|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                   | [firstBadVersion.java](src%2Fmain%2Fjava%2Fweek2%2FfirstBadVersion.java)               |
+| [Ransom Note](https://leetcode.com/problems/ransom-note/)                                               | [ransomNote.java](src%2Fmain%2Fjava%2Fweek2%2FransomNote.java)                         |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                       | [climbingStairs.java](src%2Fmain%2Fjava%2Fweek2%2FclimbingStairs.java)                 |
+| [Longest Palindrome ](https://leetcode.com/problems/longest-palindrome/description/)                    | [longestPalindrome.java](src%2Fmain%2Fjava%2Fweek2%2FlongestPalindrome.java)           | 
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                   | [reverseLinkedList.java](src%2Fmain%2Fjava%2Fweek2%2FreverseLinkedList.java)           |
+| [Majority Element](https://leetcode.com/problems/majority-element/description/)                         | [majorityElement.java](src%2Fmain%2Fjava%2Fweek2%2FmajorityElement.java)               |
+| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)           | [diameterOfTree.java](src%2Fmain%2Fjava%2Fweek2%2FdiameterOfTree.java)                 |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)       | [middleOfLinkedList.java](src%2Fmain%2Fjava%2Fweek2%2FmiddleOfLinkedList.java)         |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [maximumDepthBinaryTree.java](src%2Fmain%2Fjava%2Fweek2%2FmaximumDepthBinaryTree.java) |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                     | [containsDuplicate.java](src%2Fmain%2Fjava%2Fweek2%2FcontainsDuplicate.java)           |
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                         | [maximumSubArray.java](src%2Fmain%2Fjava%2Fweek2%2FmaximumSubArray.java)               |
