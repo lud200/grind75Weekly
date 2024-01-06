@@ -33,3 +33,16 @@ https://www.techinterviewhandbook.org/grind75
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [maximumDepthBinaryTree.java](src%2Fmain%2Fjava%2Fweek2%2FmaximumDepthBinaryTree.java) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                     | [containsDuplicate.java](src%2Fmain%2Fjava%2Fweek2%2FcontainsDuplicate.java)           |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                         | [maximumSubArray.java](src%2Fmain%2Fjava%2Fweek2%2FmaximumSubArray.java)               |
+
+## Week3
+
+| Week3                                                                                                                                        | Problem link                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [Insert Interval](https://leetcode.com/problems/insert-interval/description/)                                                                | [insertInterval.java](src%2Fmain%2Fjava%2Fweek3%2FinsertInterval.java)               |
+| [01 Matrix](https://leetcode.com/problems/01-matrix/description/)                                                                            | [matrix01.java](src%2Fmain%2Fjava%2Fweek3%2Fmatrix01.java)                           |
+| [K Closest Points to Origin ](https://leetcode.com/problems/k-closest-points-to-origin/description/)                                         | [kClosestPoints.java](src%2Fmain%2Fjava%2Fweek3%2FkClosestPoints.java)               |
+| [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [LongestSubstring.java](src%2Fmain%2Fjava%2Fweek3%2FLongestSubstring.java)           |
+| [3Sum](https://leetcode.com/problems/3sum/description/)                                                                                      | [threeSum.java](src%2Fmain%2Fjava%2Fweek3%2FthreeSum.java)                           |
+| [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)                           | [levelOrderTraversal.java](src%2Fmain%2Fjava%2Fweek3%2FlevelOrderTraversal.java)     |
+| [Clone Graph](https://leetcode.com/problems/clone-graph/description/)                                                                        | [cloneGraph.java](src%2Fmain%2Fjava%2Fweek3%2FcloneGraph.java)                       |
+| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)                              | [reversePolishNotation.java](src%2Fmain%2Fjava%2Fweek3%2FreversePolishNotation.java) |

@@ -7,16 +7,7 @@
     <list default="true" id="5c3a4151-d0cf-48e5-9275-f30dbe6b76e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/balanceBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/balanceBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/bestTimeforStocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/bestTimeforStocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/floodFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/floodFill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/lcaofBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/lcaofBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/mergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/mergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/queueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/queueUsingStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week1/validPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week1/validPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week2/climbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/climbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week2/firstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/firstBadVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week2/ransomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week2/ransomNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
