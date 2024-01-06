@@ -14,3 +14,6 @@ https://www.techinterviewhandbook.org/grind75
 | Valid anagram                   | [validAnagram.java](src%2Fmain%2Fjava%2Fweek1%2FvalidAnagram.java)               |
 | Binary Search                   | [binarySearch.java](src%2Fmain%2Fjava%2Fweek1%2FbinarySearch.java)               |
 | Flood Fill                      | [floodFill.java](src%2Fmain%2Fjava%2Fweek1%2FfloodFill.java)                     |
+| Lowest Common ancestor of a BST | [lcaofBST.java](src%2Fmain%2Fjava%2Fweek1%2FlcaofBST.java)                       |
+| Balanced Binary Tree            | [balanceBinaryTree.java](src%2Fmain%2Fjava%2Fweek1%2FbalanceBinaryTree.java)     |
+| Implement queue using stack     | [queueUsingStack.java](src%2Fmain%2Fjava%2Fweek1%2FqueueUsingStack.java)         |
