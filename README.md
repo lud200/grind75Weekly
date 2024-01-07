@@ -71,13 +71,13 @@ https://www.techinterviewhandbook.org/grind75
 
 
 ## Week6
-| Week5                                                                                     | Problem link                                                                                     |
-|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [Word Break](https://leetcode.com/problems/word-break/)                                   | [wordBreak.java](src%2Fmain%2Fjava%2Fweek6%2FwordBreak.java)                                     |
-| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)    | [partitionEqualSubset.java](src%2Fmain%2Fjava%2Fweek6%2FpartitionEqualSubset.java)               |
-| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                             | [spiralMatrix.java](src%2Fmain%2Fjava%2Fweek6%2FspiralMatrix.java)                               |
-| [Subsets](https://leetcode.com/problems/subsets)                                          | [subsets.java](src%2Fmain%2Fjava%2Fweek6%2Fsubsets.java)                                         |
-| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [binarytreeRightView.java](src%2Fmain%2Fjava%2Fweek6%2FbinarytreeRightView.java)                 |
-| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                             | [longestPalindromicSubstring.java](src%2Fmain%2Fjava%2Fweek6%2FlongestPalindromicSubstring.java) |
-| [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                              | [uniquePaths.java](src%2Fmain%2Fjava%2Fweek6%2FuniquePaths.java)                                 |
-| Construct Binary Tree from Preorder and Inorder Traversal                                 | [inorderPreorderTree.java](src%2Fmain%2Fjava%2Fweek6%2FinorderPreorderTree.java)                 |
+| Week5                                                                                                                                                | Problem link                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [Word Break](https://leetcode.com/problems/word-break/)                                                                                              | [wordBreak.java](src%2Fmain%2Fjava%2Fweek6%2FwordBreak.java)                                     |
+| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)                                                               | [partitionEqualSubset.java](src%2Fmain%2Fjava%2Fweek6%2FpartitionEqualSubset.java)               |
+| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                                        | [spiralMatrix.java](src%2Fmain%2Fjava%2Fweek6%2FspiralMatrix.java)                               |
+| [Subsets](https://leetcode.com/problems/subsets)                                                                                                     | [subsets.java](src%2Fmain%2Fjava%2Fweek6%2Fsubsets.java)                                         |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                            | [binarytreeRightView.java](src%2Fmain%2Fjava%2Fweek6%2FbinarytreeRightView.java)                 |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)                                                        | [longestPalindromicSubstring.java](src%2Fmain%2Fjava%2Fweek6%2FlongestPalindromicSubstring.java) |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                          | [uniquePaths.java](src%2Fmain%2Fjava%2Fweek6%2FuniquePaths.java)                                 |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [inorderPreorderTree.java](src%2Fmain%2Fjava%2Fweek6%2FinorderPreorderTree.java)                 |
