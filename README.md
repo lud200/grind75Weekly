@@ -46,3 +46,16 @@ https://www.techinterviewhandbook.org/grind75
 | [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)                           | [levelOrderTraversal.java](src%2Fmain%2Fjava%2Fweek3%2FlevelOrderTraversal.java)     |
 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)                                                                        | [cloneGraph.java](src%2Fmain%2Fjava%2Fweek3%2FcloneGraph.java)                       |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)                              | [reversePolishNotation.java](src%2Fmain%2Fjava%2Fweek3%2FreversePolishNotation.java) |
+
+## Week4
+
+| Week4                                                                                                   | Problem link                                                                               |
+|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                           | [courseSchedule.java](src%2Fmain%2Fjava%2Fweek4%2FcourseSchedule.java)                     |
+| [Coin Change](https://leetcode.com/problems/coin-change/)                                               | [coinChange.java](src%2Fmain%2Fjava%2Fweek4%2FcoinChange.java)                             |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [productOfArrayExceptSelf.java](src%2Fmain%2Fjava%2Fweek4%2FproductOfArrayExceptSelf.java) |
+| [Min Stack](https://leetcode.com/problems/min-stack/description/)                                       | [minStack.java](src%2Fmain%2Fjava%2Fweek4%2FminStack.java)                                 |
+| [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/description/)  | [validateBST.java](src%2Fmain%2Fjava%2Fweek4%2FvalidateBST.java)                           |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                       | [noIslands.java](src%2Fmain%2Fjava%2Fweek4%2FnoIslands.java)                               |
+| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                           |                                                                                            |
+|                                                                                                         |                                                                                            |
