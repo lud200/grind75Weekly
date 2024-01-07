@@ -1,6 +1,6 @@
 # grind75Weekly
 https://www.techinterviewhandbook.org/grind75
-
+ 
 ## Week1
 
 | Week1                                                                                                            | Problem link                                                                     |
@@ -57,5 +57,14 @@ https://www.techinterviewhandbook.org/grind75
 | [Min Stack](https://leetcode.com/problems/min-stack/description/)                                       | [minStack.java](src%2Fmain%2Fjava%2Fweek4%2FminStack.java)                                 |
 | [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/description/)  | [validateBST.java](src%2Fmain%2Fjava%2Fweek4%2FvalidateBST.java)                           |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                       | [noIslands.java](src%2Fmain%2Fjava%2Fweek4%2FnoIslands.java)                               |
-| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                           |                                                                                            |
-|                                                                                                         |                                                                                            |
+| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                           | [rottingOranges.java](src%2Fmain%2Fjava%2Fweek4%2FrottingOranges.java)                     |
+
+## Week5
+| Week5                                                                                                            | Problem link                                                                               |
+|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                  | [searchRotatedSortedArray.java](src%2Fmain%2Fjava%2Fweek5%2FsearchRotatedSortedArray.java) |
+| [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                | [combinationSum.java](src%2Fmain%2Fjava%2Fweek5%2FcombinationSum.java)                     |
+| [Permutations](https://leetcode.com/problems/permutations/submissions/1138997593/)                               | [permutations.java](src%2Fmain%2Fjava%2Fweek5%2Fpermutations.java)                         |
+| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                | [mergeIntervals.java](src%2Fmain%2Fjava%2Fweek5%2FmergeIntervals.java)                     |
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [LCABinaryTree.java](src%2Fmain%2Fjava%2Fweek5%2FLCABinaryTree.java)                       |
+| Sort Colors                                                                                                      | [sortColors.java](src%2Fmain%2Fjava%2Fweek5%2FsortColors.java)                             |
