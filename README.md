@@ -67,4 +67,4 @@ https://www.techinterviewhandbook.org/grind75
 | [Permutations](https://leetcode.com/problems/permutations/submissions/1138997593/)                               | [permutations.java](src%2Fmain%2Fjava%2Fweek5%2Fpermutations.java)                         |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                | [mergeIntervals.java](src%2Fmain%2Fjava%2Fweek5%2FmergeIntervals.java)                     |
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [LCABinaryTree.java](src%2Fmain%2Fjava%2Fweek5%2FLCABinaryTree.java)                       |
-| Sort Colors                                                                                                      | [sortColors.java](src%2Fmain%2Fjava%2Fweek5%2FsortColors.java)                             |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                        | [sortColors.java](src%2Fmain%2Fjava%2Fweek5%2FsortColors.java)                             |
