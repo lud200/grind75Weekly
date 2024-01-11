@@ -82,6 +82,22 @@ https://www.techinterviewhandbook.org/grind75
 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                                          | [uniquePaths.java](src%2Fmain%2Fjava%2Fweek6%2FuniquePaths.java)                                 |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [inorderPreorderTree.java](src%2Fmain%2Fjava%2Fweek6%2FinorderPreorderTree.java)                 |
 
+## Week7
+| Week7                                                                                                                     | Problem link                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                         | [containerWithWater.java](src%2Fmain%2Fjava%2Fweek7%2FcontainerWithWater.java)         |
+| [Find All Anagrams in a String ](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                | [findAllAnagrams.java](src%2Fmain%2Fjava%2Fweek7%2FfindAllAnagrams.java)               |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [letterComboPhoneNumber.java](src%2Fmain%2Fjava%2Fweek7%2FletterComboPhoneNumber.java) |
+| [Word Break](https://leetcode.com/problems/word-break/description/)                                                       | [wordBreak.java](src%2Fmain%2Fjava%2Fweek7%2FwordBreak.java)                           |
 
 
+
+## Week8
+| Week8                                                                                                     | Problem link                                                                               |
+|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [kthSmallestElement.java](src%2Fmain%2Fjava%2Fweek8%2FkthSmallestElement.java)             |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                     | [trappingRainWater.java](src%2Fmain%2Fjava%2Fweek8%2FtrappingRainWater.java)               |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)   | [findMedianFromDataStream.java](src%2Fmain%2Fjava%2Fweek8%2FfindMedianFromDataStream.java) |
+| [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)                           | [basicCalculator.java](src%2Fmain%2Fjava%2Fweek8%2FbasicCalculator.java)                   |
+| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                   | [mergeKSortedLists.java](src%2Fmain%2Fjava%2Fweek8%2FmergeKSortedLists.java)               |
 
