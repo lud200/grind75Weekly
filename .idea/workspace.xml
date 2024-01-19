@@ -5,47 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3a4151-d0cf-48e5-9275-f30dbe6b76e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week8/basicCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week8/countAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week8/findMedianFromDataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week8/mergeKSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week8/wiggleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week8/jumpGame2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week8/kthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week8/largestLengthHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week8/minFallingPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week8/minStepsForAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week8/removeNonrepeatingCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/balanceBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/balanceBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/balanceBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/balanceBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/bestTimeforStocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/bestTimeforStocks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/binarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/floodFill.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/floodFill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/invertBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/invertBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/invertBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/invertBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/lcaofBST$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/lcaofBST$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/lcaofBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/lcaofBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/linkedListCycle$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/linkedListCycle$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/linkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/linkedListCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/mergeTwoSortedLists$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/mergeTwoSortedLists$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/mergeTwoSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/mergeTwoSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/queueUsingStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/queueUsingStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/twoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/twoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/validAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/validAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/validPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/validPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week1/validParanthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week1/validParanthesis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/balloonProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/balloonProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/climbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/climbingStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/containsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/containsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/diameterOfTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/diameterOfTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/diameterOfTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/diameterOfTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/firstBadVersion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/firstBadVersion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/longestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/longestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/majorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/majorityElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/maximumDepthBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/maximumDepthBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/maximumDepthBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/maximumDepthBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/maximumSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/maximumSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/middleOfLinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/middleOfLinkedList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/middleOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/middleOfLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/ransomNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/ransomNote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/reverseLinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/reverseLinkedList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2/reverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2/reverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/week8/tribbinacci.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +48,9 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/udayaduvvuri/grind75Weekly&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tribbinacci">
-    <configuration name="countAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.countAndSay" />
+  <component name="RunManager" selected="Application.kthSmallest">
+    <configuration name="jumpGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.jumpGame2" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
@@ -95,21 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maximumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.maximumSubArray" />
-      <module name="grind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.test" />
+    <configuration name="kthSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.kthSmallest" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tribbinacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.tribbinacci" />
+    <configuration name="largestLengthHistogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.largestLengthHistogram" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +88,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wiggleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week8.wiggleSort" />
+    <configuration name="minFallingPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.minFallingPaths" />
+      <module name="grind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeNonrepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week8.removeNonrepeatingCharacter" />
       <module name="grind75" />
       <extension name="coverage">
         <pattern>
@@ -191,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tribbinacci" />
-        <item itemvalue="Application.countAndSay" />
-        <item itemvalue="Application.wiggleSort" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.maximumSubArray" />
+        <item itemvalue="Application.kthSmallest" />
+        <item itemvalue="Application.minFallingPaths" />
+        <item itemvalue="Application.removeNonrepeatingCharacter" />
+        <item itemvalue="Application.largestLengthHistogram" />
+        <item itemvalue="Application.jumpGame2" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +207,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/week8/countAndSay.java</url>
           <line>9</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/minStepsForAnagram.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/jumpGame2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/largestLengthHistogram.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/largestLengthHistogram.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/kthSmallest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/minFallingPaths.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week8/minFallingPaths.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
